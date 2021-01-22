@@ -27,7 +27,7 @@
     <div class="container">
         <nav class="navbar navbar-dark bg-dark">
             <div class="container">
-                <a href="index.php" class="navbar-brand">PHP MySQL CRUD</a>
+                <a href="index.php" class="navbar-brand">PHP MySQL CRUD SERVER N°1</a>
             </div>
         </nav>
         <div class="container p-4">
