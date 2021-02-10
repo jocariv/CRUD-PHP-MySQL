@@ -1,6 +1,6 @@
 <?php  
     session_start(); #Inicia una secion o reanuda una exixtente
-    $servername = "172.16.0.69";   #Localhost o IP
+    $servername = "172.16.0.68";   #Localhost o IP
     $username = "userku";          #Usuario de la dB
     $password = "Limaperu-2020";   #Contraseña de la dB
     $database = "sistema";       #Nombre de la db
